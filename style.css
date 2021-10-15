@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://cutewallpaper.org/21/kawaii-cat-background/Cute-cat-kawaii-background-Vector-Premium-Download.jpg");
+    text-align: center;
+}
+h1{
+    background-color: cyan;
+    width: fit-content;
+}
+h2{
+    background-color: darksalmon;
+    width: fit-content;
+}
+footer{
+    background-color: blueviolet;
+    bottom: 0;
+    position: fixed;
+    width: 10%;
+    color: black;
+}
+canvas{
+    margin-top: 200px;
+    border: 5px dotted crimson;
+}
